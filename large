@@ -1,1 +1,1 @@
-LAGS_ORDER_FILE=../data/orders.csv java -jar target/gs-maven-0.1.0.jar
+LAGS_ORDER_FILE=data/orders.csv java -jar target/gs-maven-0.1.0.jar
