@@ -1,0 +1,1 @@
+LAGS_ORDER_FILE=../data/small.csv java -jar target/gs-maven-0.1.0.jar
